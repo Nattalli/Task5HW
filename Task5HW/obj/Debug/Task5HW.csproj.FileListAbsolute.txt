@@ -1,0 +1,15 @@
+C:\Users\Наталия\source\repos\Task5HW\Task5HW\bin\Debug\Task5HW.exe.config
+C:\Users\Наталия\source\repos\Task5HW\Task5HW\bin\Debug\Task5HW.exe
+C:\Users\Наталия\source\repos\Task5HW\Task5HW\bin\Debug\Task5HW.pdb
+C:\Users\Наталия\source\repos\Task5HW\Task5HW\obj\Debug\Task5HW.csprojAssemblyReference.cache
+C:\Users\Наталия\source\repos\Task5HW\Task5HW\obj\Debug\Task5HW.Form1.resources
+C:\Users\Наталия\source\repos\Task5HW\Task5HW\obj\Debug\Task5HW.Properties.Resources.resources
+C:\Users\Наталия\source\repos\Task5HW\Task5HW\obj\Debug\Task5HW.csproj.GenerateResource.cache
+C:\Users\Наталия\source\repos\Task5HW\Task5HW\obj\Debug\Task5HW.csproj.CoreCompileInputs.cache
+C:\Users\Наталия\source\repos\Task5HW\Task5HW\obj\Debug\Task5HW.exe
+C:\Users\Наталия\source\repos\Task5HW\Task5HW\obj\Debug\Task5HW.pdb
+C:\Users\Наталия\source\repos\Task5HW\Task5HW\obj\Debug\Task5HW.Triangle2.resources
+C:\Users\Наталия\source\repos\Task5HW\Task5HW\obj\Debug\Task5HW.Square.resources
+C:\Users\Наталия\source\repos\Task5HW\Task5HW\obj\Debug\Task5HW.Rectangle.resources
+C:\Users\Наталия\source\repos\Task5HW\Task5HW\obj\Debug\Task5HW.Circle.resources
+C:\Users\Наталия\source\repos\Task5HW\Task5HW\obj\Debug\Task5HW.Diamond.resources
